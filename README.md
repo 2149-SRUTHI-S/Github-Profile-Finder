@@ -1,4 +1,5 @@
 # Github-Profile-Finder
 
 
-![image](https://github.com/2149-SRUTHI-S/Github-Profile-Finder/assets/129876043/ffbfe890-f0e5-41b6-a5e6-10c3e29418d0)
+![image](https://github.com/2149-SRUTHI-S/Github-Profile-Finder/assets/129876043/e0a70b10-edde-41f3-9e17-f56cb0d977ca)
+
